@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="40" android:drawable="@drawable/login_frame_00"/>
+    <item android:duration="40" android:drawable="@drawable/login_frame_01"/>
+    <item android:duration="40" android:drawable="@drawable/login_frame_02"/>
+    <item android:duration="40" android:drawable="@drawable/login_frame_03"/>
+    <item android:duration="40" android:drawable="@drawable/login_frame_04"/>
+    <item android:duration="40" android:drawable="@drawable/login_frame_05"/>
+    <item android:duration="40" android:drawable="@drawable/login_frame_06"/>
+    <item android:duration="40" android:drawable="@drawable/login_frame_07"/>
+    <item android:duration="40" android:drawable="@drawable/login_frame_08"/>
+    <item android:duration="40" android:drawable="@drawable/login_frame_09"/>
+    <item android:duration="40" android:drawable="@drawable/login_frame_10"/>
+    <item android:duration="40" android:drawable="@drawable/login_frame_11"/>
+    <item android:duration="40" android:drawable="@drawable/login_frame_12"/>
+    <item android:duration="40" android:drawable="@drawable/login_frame_13"/>
+    <item android:duration="40" android:drawable="@drawable/login_frame_14"/>
+    <item android:duration="40" android:drawable="@drawable/login_frame_15"/>
+    <item android:duration="40" android:drawable="@drawable/login_frame_16"/>
+    <item android:duration="40" android:drawable="@drawable/login_frame_17"/>
+    <item android:duration="40" android:drawable="@drawable/login_frame_18"/>
+    <item android:duration="40" android:drawable="@drawable/login_frame_19"/>
+    <item android:duration="40" android:drawable="@drawable/login_frame_20"/>
+    <item android:duration="40" android:drawable="@drawable/login_frame_21"/>
+    <item android:duration="40" android:drawable="@drawable/login_frame_22"/>
+    <item android:duration="40" android:drawable="@drawable/login_frame_23"/>
+    <item android:duration="40" android:drawable="@drawable/login_frame_24"/>
+    <item android:duration="40" android:drawable="@drawable/login_frame_25"/>
+
+</animation-list>
