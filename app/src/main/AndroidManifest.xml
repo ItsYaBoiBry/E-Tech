@@ -18,7 +18,9 @@
         </activity>
         <activity android:name=".MainActivity" />
         <activity android:name=".Login" />
-        <activity android:name=".doSignup"></activity>
+        <activity android:name=".doSignup"/>
+        <activity android:name=".detailsActivity"/>
+
     </application>
 
 </manifest>
